@@ -70,7 +70,7 @@
           this.$toast.show('请添加商品~',1500)
         }
         else{
-          this.$toast.show('穷b你能买起吗',5000)
+          this.$toast.show('请先付款哦',5000)
         }
       }
     }
